@@ -17,3 +17,8 @@
 # Летай быстро. Летай дешево -
 ## ~~Летай из окна~~
 # Летай с Поискоsales
+
+---
+
+![меме](https://github.com/thunderkatana/test1/blob/main/2%20(1).png)
+![меме продолжение](https://github.com/thunderkatana/test1/blob/main/3.png)
